@@ -14,7 +14,7 @@ exports.config = {
     browserName: "chrome",
   },
   directConnect: true,
-  baseUrl: "https://rmartinez75.github.io/my-awesome-quiz-app/",
+  baseUrl: "http://localhost:4200/",
   framework: "jasmine",
   jasmineNodeOpts: {
     showColors: true,
